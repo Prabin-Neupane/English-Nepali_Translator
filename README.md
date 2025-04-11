@@ -43,7 +43,6 @@ Multiple models were trained with variations in:
 All trained models, logs, and checkpoints are available here:
 
 📂 **[👉 Google Drive - Trained Models & Reports](https://drive.google.com/drive/folders/1Fg9hFBSpkhdGC-Wka44f6gRErmVLkwCH?usp=drive_link)**  
-_(Replace with your actual link)_
 
 ---
 
